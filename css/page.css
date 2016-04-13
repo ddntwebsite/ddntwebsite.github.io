@@ -16,10 +16,20 @@
 }
 
 @media only screen and (max-width: 768px) {
-    .navbar-default .navbar-nav .dropdown .dropdown-menu li {
+    .navbar-default .navbar-nav .dropdown .dropdown-menu a {
         width:100%;
     }
+    ul.dropdown-menu.bullet.pull-center {
+        width:100%;
+        text-align:center;
+    }
+    .navbar-header {
+        margin-bottom: 10px;
+    }
+
 }
+
+
 
 .social {
     font-size:25px;
@@ -44,7 +54,7 @@
 
 
 ul.nav li.dropdown:hover {
-cursor: default;
+    cursor: default;
 }
 .navbar-default .navbar-nav > .active > a {
 
@@ -102,7 +112,7 @@ cursor: default;
 }
 
 .top-buffer {
- margin-top:10px;
+    margin-top:10px;
 }
 
 .carousel-caption {
