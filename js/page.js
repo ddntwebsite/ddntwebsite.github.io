@@ -4,6 +4,8 @@
 
 $(function(){
 
+    var lastSelectedItem = null;
+
     $("#navbarHolder").load("./navbar.html", function() {
         //navbar is loaded
 
@@ -24,13 +26,34 @@ $(function(){
                 }
             });
 
+        $("ul.nav li.dropdown").click(function() {
+            //change the arrow direction on click
+            if(!mq.matches) {
+                if(lastSelectedItem == null) {
+
+                    $(this).find("b.fa-chevron-down").removeClass("fa-chevron-down").addClass("fa-chevron-up");
+                    lastSelectedItem = $(this).find("b.fa-chevron-up").first();
+                }
+
+                else if($(this).find("b.fa").first().hasClass("fa-chevron-up")) {
+
+                    lastSelectedItem = null;
+                    $(this).find("b.fa-chevron-up").removeClass("fa-chevron-up").addClass("fa-chevron-down");
+                }
+
+                else {
+                    lastSelectedItem.removeClass("fa-chevron-up").addClass("fa-chevron-down");
+                    $(this).find("b.fa-chevron-down").removeClass("fa-chevron-down").addClass("fa-chevron-up");
+                    lastSelectedItem = $(this).find("b.fa-chevron-up").first();
+                }
+            }
+        });
+
     });
     $("#footerHolder").load("./footer.html");
 
 
 
-    $("ul.nav li.dropdown").click(function() {
 
-    });
 });
 

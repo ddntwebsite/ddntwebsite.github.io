@@ -149,12 +149,18 @@ body {
 /* Set the fixed height of the footer here */
 #footer {
     margin-top:20px;
-    height: 60px;
     background-color: white;
+  /*  background-color: #f2f2f2;*/
 }
 
 #footer .row {
     padding-top:10px;
     border-top: solid black 1px;
+    margin-bottom:10px;
 }
 
+#footer .row ul.list-unstyled li {
+    margin-bottom:10px;
+    font-family: MyriadPro,Helvetica,Arial,sans-serif;
+    font-size:15px;
+}
