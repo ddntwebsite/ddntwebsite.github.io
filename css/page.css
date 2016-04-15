@@ -29,6 +29,37 @@
 
 }
 
+@media only screen and (min-width: 600px) {
+    .carousel-caption h1 {
+        font-size: 80px;
+    }
+}
+@media only screen and (max-width: 599px) {
+    .carousel-caption h1 {
+        font-size: 30px;
+    }
+}
+
+
+@media only screen and (min-width: 992px) {
+    .largeBlueBlock {
+        color:white;
+        background-color:#269abc;
+        padding: 10px;
+        border-radius:2px;
+        font-size:2.6em;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .largeBlueBlock {
+        color:white;
+        background-color:#269abc;
+        padding: 10px;
+        border-radius:2px;
+        font-size:2em;
+    }
+}
+
 
 
 .social {
@@ -94,7 +125,7 @@ ul.nav li.dropdown:hover {
 
 .sectionPicture {
     width:100%;
-    height:600px;
+    max-height:600px;
 }
 
 .blueBlock {
@@ -103,13 +134,7 @@ ul.nav li.dropdown:hover {
     padding: 10px;
     border-radius:2px;
 }
-.largeBlueBlock {
-    color:white;
-    background-color:#269abc;
-    padding: 10px;
-    border-radius:2px;
-    font-size:2.6em;
-}
+
 
 .top-buffer {
     margin-top:10px;
@@ -123,9 +148,9 @@ ul.nav li.dropdown:hover {
     -moz-transform-style: preserve-3d;
     transform-style: preserve-3d;
 }
-.carousel-caption h1 {
-    font-size: 5em;
-}
+
+
+
 
 
 /* Sticky footer styles
