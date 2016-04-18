@@ -20,7 +20,7 @@ $(function(){
         $("ul.nav li.dropdown").hover(function() {
             if (mq.matches && !isTouchUsed ) {
                 //simulate click
-                $this = $(this);
+               var $this = $(this);
                 $this.children("a").first().click();
                 $this.find("b.fa-chevron-down").attr("class", "fa fa-chevron-up");
             }
@@ -28,7 +28,7 @@ $(function(){
 
             function() {
                 if (mq.matches && !isTouchUsed ) {
-                    $this = $(this);
+                    var $this = $(this);
                     $this.removeClass("open");
                     $this.find("b.fa-chevron-up").attr("class", "fa fa-chevron-down");
                 }
