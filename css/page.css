@@ -26,6 +26,9 @@
     .navbar-header {
         margin-bottom: 10px;
     }
+   #footer .xs-top-buffer {
+        margin-top:10px;
+    }
 
 }
 
