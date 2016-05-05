@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7752ce5f-9ade-4d5f-80a6-02fc5950683c" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Users\Dimitar\Desktop\SORSIX\DDNTWebsiteGit\ddntwebsite.github.io\images\IMG_1276.JPG" afterPath="$PROJECT_DIR$/images/IMG_1276.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aboutDDNT.html" afterPath="$PROJECT_DIR$/aboutDDNT.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.html" afterPath="$PROJECT_DIR$/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/globalPartnerships.html" afterPath="$PROJECT_DIR$/globalPartnerships.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/navbar.html" afterPath="$PROJECT_DIR$/navbar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/page.css" afterPath="$PROJECT_DIR$/css/page.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qualitySystems.html" afterPath="$PROJECT_DIR$/qualitySystems.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/strategyData.html" afterPath="$PROJECT_DIR$/strategyData.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/technologyInovation.html" afterPath="$PROJECT_DIR$/technologyInovation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DDNTwebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aboutDDNT.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="aboutDDNT.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/aboutDDNT.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.7636366">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+            <state vertical-scroll-proportion="1.6710526">
+              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,10 +74,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strategyData.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="strategyData.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/strategyData.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6650367">
+            <state vertical-scroll-proportion="-10.461538">
               <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
               <folding />
             </state>
@@ -118,8 +109,8 @@
       <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693">
-              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="95" />
+            <state vertical-scroll-proportion="-6.576923">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -161,13 +152,13 @@
         <option value="$PROJECT_DIR$/js/page.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/navbar.html" />
-        <option value="$PROJECT_DIR$/footer.html" />
         <option value="$PROJECT_DIR$/css/page.css" />
-        <option value="$PROJECT_DIR$/aboutDDNT.html" />
         <option value="$PROJECT_DIR$/globalPartnerships.html" />
         <option value="$PROJECT_DIR$/qualitySystems.html" />
         <option value="$PROJECT_DIR$/strategyData.html" />
         <option value="$PROJECT_DIR$/technologyInovation.html" />
+        <option value="$PROJECT_DIR$/footer.html" />
+        <option value="$PROJECT_DIR$/aboutDDNT.html" />
       </list>
     </option>
   </component>
@@ -714,26 +705,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="95" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/page.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.0">
           <caret line="152" column="22" selection-start-line="152" selection-start-column="22" selection-end-line="152" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutDDNT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.7636366">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -764,8 +739,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/strategyData.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6650367">
+        <state vertical-scroll-proportion="-10.461538">
           <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.576923">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutDDNT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6710526">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
           <folding />
         </state>
       </provider>
