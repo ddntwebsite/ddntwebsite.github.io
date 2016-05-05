@@ -111,9 +111,6 @@ ul.nav li.dropdown:hover {
     background-color:white; !important
 }
 
-.dropdown li a {
-
-}
 .navbar-header > a, .nav.navbar-nav >li > a {
     padding-top:25px;
     padding-bottom:25px;
@@ -153,6 +150,7 @@ ul.nav li.dropdown:hover {
     top: 50%;
     transform: translateY(-50%);
     bottom: initial;
+    text-align:center;
     -webkit-transform-style: preserve-3d;
     -moz-transform-style: preserve-3d;
     transform-style: preserve-3d;
