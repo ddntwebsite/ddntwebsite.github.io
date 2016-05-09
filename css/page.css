@@ -150,7 +150,8 @@ ul.nav li.dropdown:hover {
     top: 50%;
     transform: translateY(-50%);
     bottom: initial;
-    text-align:center;
+    text-align:left;
+    text-shadow: 2px 2px black;
     -webkit-transform-style: preserve-3d;
     -moz-transform-style: preserve-3d;
     transform-style: preserve-3d;
