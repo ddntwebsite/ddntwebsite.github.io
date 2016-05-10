@@ -87,6 +87,10 @@
        min-height: 200px;
    }
 }
+.indexCarousel, .indexImage {
+    width:100%;
+    max-height: 450px !important;
+}
 
 
 
