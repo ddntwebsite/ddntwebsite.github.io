@@ -9,7 +9,7 @@ $(function(){
     $("#navbarHolder").load("./navbar.html");
     $("#footerHolder").load("./footer.html");
 
-
+//acomment
 
 
 });
