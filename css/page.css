@@ -35,20 +35,30 @@
 @media only screen and (min-width: 1000px) {
     .carousel-caption h1 {
         font-size: 80px;
+        text-shadow: 2px 2px black;
+    }
+    .carousel-caption h2 {
+        text-shadow: 2px 2px black;
     }
 }
 
 @media only screen and (min-width: 550px) and (max-width: 999px) {
     .carousel-caption h1 {
+        text-shadow: 2px 2px black;
         font-size: 40px;
+    }
+    .carousel-caption h2 {
+        text-shadow: 2px 2px black;
     }
 }
 @media only screen and (max-width: 549px) {
     .carousel-caption h1 {
         font-size: 28px;
+        text-shadow: 2px 2px black;
     }
     .carousel-caption h2 {
         font-size:18px;
+        text-shadow: 1px 1px black;
     }
 }
 
@@ -70,6 +80,12 @@
         border-radius:2px;
         font-size:2em;
     }
+}
+/*picture becomes too small on small resolutions*/
+@media only screen and (max-width: 390px) {
+   .sectionPicture {
+       min-height: 200px;
+   }
 }
 
 
@@ -137,6 +153,8 @@ ul.nav li.dropdown:hover {
     max-height:450px;
 }
 
+
+
 .blueBlock {
     color:white;
     background-color:#269abc;
@@ -156,7 +174,7 @@ ul.nav li.dropdown:hover {
 
     bottom: initial;
     text-align:left;
-    text-shadow: 2px 2px black;
+
     -webkit-transform-style: preserve-3d;
     -moz-transform-style: preserve-3d;
     transform-style: preserve-3d;
@@ -214,3 +232,4 @@ body {
     font-size: 0.90em;
 }
 }
+
