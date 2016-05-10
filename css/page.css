@@ -174,7 +174,7 @@ ul.nav li.dropdown:hover {
 .carousel-caption {
     top: 50%;
     left:20%;
-    transform: translate(-20%,-50%);
+    transform: translate(-18%,-50%);
 
     bottom: initial;
     text-align:left;
