@@ -52,7 +52,7 @@
         font-size: 25px;
     }
 }
-@media only screen and (max-width: 549px) {
+@media only screen and (min-width:391px) and (max-width: 549px) {
     .carousel-caption h1 {
         font-size: 28px;
         text-shadow: 2px 2px black;
@@ -63,6 +63,16 @@
     }
 }
 
+@media only screen and (max-width:390px) {
+    .carousel-caption h1 {
+        font-size: 22px;
+        text-shadow: 2px 2px black;
+    }
+    .carousel-caption h2 {
+        font-size:13px;
+        text-shadow: 1px 1px black;
+    }
+}
 
 @media only screen and (min-width: 992px) {
     .largeBlueBlock {
@@ -82,12 +92,7 @@
         font-size:2em;
     }
 }
-/*picture becomes too small on small resolutions*/
-@media only screen and (max-width: 390px) {
-   .sectionPicture {
-       min-height: 200px;
-   }
-}
+
 .indexCarousel, .indexImage {
     width:100%;
     max-height: 450px !important;
