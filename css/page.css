@@ -49,6 +49,7 @@
     }
     .carousel-caption h2 {
         text-shadow: 2px 2px black;
+        font-size: 25px;
     }
 }
 @media only screen and (max-width: 549px) {
