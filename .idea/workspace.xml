@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7752ce5f-9ade-4d5f-80a6-02fc5950683c" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Dimitar\Desktop\SORSIX\DDNTWebsiteGit\ddntwebsite.github.io\resizedSplashImages\4344848.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resizedSplashImages/aboutDDNT.jpg" afterPath="$PROJECT_DIR$/resizedSplashImages/aboutDDNT.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resizedSplashImages/globalPartnerships.jpg" afterPath="$PROJECT_DIR$/resizedSplashImages/globalPartnerships.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resizedSplashImages/plane.jpg" afterPath="$PROJECT_DIR$/resizedSplashImages/plane.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resizedSplashImages/qualitySystems.jpg" afterPath="$PROJECT_DIR$/resizedSplashImages/qualitySystems.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resizedSplashImages/strategyData.jpg" afterPath="$PROJECT_DIR$/resizedSplashImages/strategyData.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resizedSplashImages/technologyInnovation.jpg" afterPath="$PROJECT_DIR$/resizedSplashImages/technologyInnovation.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.html" afterPath="$PROJECT_DIR$/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/page.css" afterPath="$PROJECT_DIR$/css/page.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="DDNTwebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/css/page.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+              <caret line="201" column="2" selection-start-line="201" selection-start-column="2" selection-end-line="201" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -92,10 +83,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.625">
+            <state vertical-scroll-proportion="-9.807693">
               <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
               <folding />
             </state>
@@ -124,11 +115,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.65384614">
-              <caret line="31" column="95" selection-start-line="31" selection-start-column="95" selection-end-line="31" selection-end-column="95" />
+            <state vertical-scroll-proportion="0.41666666">
+              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -165,8 +156,8 @@
         <option value="$PROJECT_DIR$/globalPartnerships.html" />
         <option value="$PROJECT_DIR$/qualitySystems.html" />
         <option value="$PROJECT_DIR$/strategyData.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/page.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -751,10 +742,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
-          <caret line="31" column="95" selection-start-line="31" selection-start-column="95" selection-end-line="31" selection-end-column="95" />
+        <state vertical-scroll-proportion="-9.807693">
+          <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
           <folding />
         </state>
       </provider>
@@ -762,15 +753,15 @@
     <entry file="file://$PROJECT_DIR$/css/page.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+          <caret line="201" column="2" selection-start-line="201" selection-start-column="2" selection-end-line="201" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footer.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.625">
-          <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+        <state vertical-scroll-proportion="0.41666666">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
           <folding />
         </state>
       </provider>
